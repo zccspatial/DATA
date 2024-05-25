@@ -1,0 +1,26 @@
+[1] Liu, B., Song, C., Liang, X., Lai, M., Yu, Z. and Ji, J., 2023. Regional differences in China's electric vehicle sales forecasting: Under supply-demand policy scenarios. Energy Policy, 177, p.113554.
+
+[2] Jiang, W., Gao, W., Gao, X., Ma, M., Zhou, M., Du, K. and Ma, X., 2021. Spatio-temporal heterogeneity of air pollution and its key influencing factors in the Yellow River Economic Belt of China from 2014 to 2019. Journal of Environmental Management, 296, p.113172.
+
+[3] Miao, L., Liu, C., Yang, X., Kwan, M.P. and Zhang, K., 2022. Spatiotemporal heterogeneity analysis of air quality in the Yangtze River Delta, China. Sustainable Cities and Society, 78, p.103603.
+
+[4] Zhou, S. and Lin, R., 2019. Spatial-temporal heterogeneity of air pollution: The relationship between built environment and on-road PM2. 5 at micro scale. Transportation Research Part D: Transport and Environment, 76, pp.305-322.
+
+[5] Sun, Y., Zeng, J. and Namaiti, A., 2022. Research on the spatial heterogeneity and influencing factors of air pollution: a case study in Shijiazhuang, China. Atmosphere, 13(5), p.670.
+
+[6] Camilleri, S.F., Montgomery, A., Visa, M.A., Schnell, J.L., Adelman, Z.E., Janssen, M., Grubert, E.A., Anenberg, S.C. and Horton, D.E., 2023. Air quality, health and equity implications of electrifying heavy-duty vehicles. Nature Sustainability, 6(12), pp.1643-1653.
+
+[7] Liang, X., Zhang, S., Wu, Y., Xing, J., He, X., Zhang, K.M., Wang, S. and Hao, J., 2019. Air quality and health benefits from fleet electrification in China. Nature Sustainability, 2(10), pp.962-971.
+
+[8] Yu, Q., He, B.Y., Ma, J. and Zhu, Y., 2023. California’s zero-emission vehicle adoption brings air quality benefits yet equity gaps persist. Nature Communications, 14(1), p.7798.
+
+[9] Sun, C., Xu, S., Yang, M. and Gong, X., 2022. Urban traffic regulation and air pollution: A case study of urban motor vehicle restriction policy. Energy Policy, 163, p.112819.
+
+[10] Ercan, T., Onat, N.C., Keya, N., Tatari, O., Eluru, N. and Kucukvar, M., 2022. Autonomous electric vehicles can reduce carbon emissions and air pollution in cities. Transportation Research Part D: Transport and Environment, 112, p.103472.
+
+[11] Qian, Y., Xie, M., Duan, H., Song, X., Shen, P. and Qiao, Q., Are Electric Vehicles Really the Optimal Option for Transportation Sector to Approach Carbon Neutrality Goal in China?. Available at SSRN 4109349.
+
+[12] Wang, H., Feng, K., Wang, P., Yang, Y., Sun, L., Yang, F., Chen, W.Q., Zhang, Y. and Li, J., 2023. China’s electric vehicle and climate ambitions jeopardized by surging critical material prices. Nature Communications, 14(1), p.1246.
+
+[13] Böhm, M., Nanni, M. and Pappalardo, L., 2022. Gross polluters and vehicle emissions reduction. Nature Sustainability, 5(8), pp.699-707.
+
